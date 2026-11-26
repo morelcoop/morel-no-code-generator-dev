@@ -1,5 +1,5 @@
-title: Biblioteca Abierta Venezolana # Write here the name of your site
-tagline: Descargas gratuitas en formato facsimilar y metadatos bibliográficos venezolanos # Write here your site tagline
+title: "Walter Benjamin en español"
+tagline: "traducciones, ensayos, ediciones"
 img: logo.png # Add a file with your site's logo on /assets/img/tema
 background: pattern.png # Add a file with your site's pattern on /assets/img/tema
 image : avatar.png  # Add a file with a copy of your site's avatar on /assets/img/tema
@@ -89,3 +89,5 @@ defaults:
       type: "repositories"
     values:
       layout: "repository"
+description: "Esta es una biblioteca MOREL para contenido relacionado con Walter Benjamin en español."
+baseurl: "/morel-no-code-generator-dev"
