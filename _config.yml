@@ -1,5 +1,5 @@
-title: "La masa y el movimiento"
-tagline: "objetos digitales para el estudio de la obra de Simón Rodríguez"
+title: "Walter Benjamin en español"
+tagline: "traducciones, ensayos, ediciones"
 img: logo.png # Add a file with your site's logo on /assets/img/tema
 background: pattern.png # Add a file with your site's pattern on /assets/img/tema
 image : avatar.png  # Add a file with a copy of your site's avatar on /assets/img/tema
@@ -89,5 +89,5 @@ defaults:
       type: "repositories"
     values:
       layout: "repository"
-description: "Sitio MOREL que reúne objetos digitales para la obra de Simón Rodríguez"
+description: Sitio
 baseurl: "/morel-no-code-generator-dev"
